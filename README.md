@@ -1,2 +1,2 @@
-# new-project-as-a-beginner
-first project
+# School Project on trading algorithm
+
